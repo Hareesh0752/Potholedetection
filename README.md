@@ -1,1 +1,3 @@
 # Potholedetection
+
+Due to presence of potholes in the road many accidents happens every year. .So, if we make a model which can detect the potholes of any road and can give a pre warning to the riders it can minimize the chances of accidents..But only detecting them is not enough ,so we need to track the location of the potholes so that we can send the exact location to our municipality to take appropriate action to fix them..This was the inspiration for our project..It can also be used as a feature for self-driving vehicles.. So, in this project we have created a pothole detection model using yolov4(tiny- for real time detection) architecture with the mix of our self annotated data and few pre-annotated Roboflow data
